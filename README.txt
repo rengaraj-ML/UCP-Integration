@@ -1,5 +1,5 @@
 ================================================================================
-                    LUXELIFE LUXURY BOUTIQUE AGENT PROJECT
+                    LUXELIFE LUXURY BOUTIQUE AGENT PROJECT with UCP
                            Comprehensive Documentation
 ================================================================================
 
@@ -25,7 +25,9 @@ TABLE OF CONTENTS
 
 Project Name: LuxeLife Luxury Boutique Agent
 Purpose: An AI-powered luxury fashion shopping assistant built with Google ADK
-         that provides personalized style advice and facilitates purchases.
+         that provides personalized style advice and facilitates purchases and 
+         integrated with Google's UCP Universal Commerce Protocol enabling Agentic
+        Commerce
 
 Technology Stack:
 - Google ADK (Agent Development Kit) - For building the conversational agent
